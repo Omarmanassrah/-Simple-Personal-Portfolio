@@ -1,5 +1,3 @@
-# -Simple-Personal-Portfolio
-web page using only HTML to reinforce understanding of document structure, common HTML tags, and semantic HTML.
 # Omar Ghnadi Manassra's Portfolio
 
 Welcome to my personal portfolio website! This project showcases my skills and projects as a Computer Engineering student. The website is built using HTML and is designed to be simple, clear, and easy to navigate.
